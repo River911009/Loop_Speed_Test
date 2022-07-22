@@ -22,6 +22,7 @@ This is an example code in C language. Others codes are the same structure like 
 
 ```c
 #include <stdio.h>
+
 long long time(void){
   long long x=0;
   for(long long i=0;i<1000000000;i++){
