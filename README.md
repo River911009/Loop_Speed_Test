@@ -86,4 +86,4 @@ Surprisingly, javascript on Node.js is very well, because even it is not compile
 |--------------|-----------|
 | 1 | ![Golang](https://go.dev/images/gophers/motorcycle.svg) |
 | 2 | ![JAVA](https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/121px-Java_programming_language_logo.svg.png) |
-| 3 | ![JavaScript on Node.js](https://nodejs.org/static/images/logo.svg) |
+| 3 | ![JavaScript on Node.js](https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg) |
